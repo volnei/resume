@@ -31,6 +31,17 @@ In addition to mastering **Node.js**, **React**, **Java**, and **Python**, I hav
 
 ---
 
+### Articles 
+
+- [Além da Intuição: O Surpreendente Problema de Monty Hall](https://volneigm.medium.com/al%C3%A9m-da-intui%C3%A7%C3%A3o-o-surpreendente-problema-de-monty-hall-9665f1f3e144) - PT_BR
+- [A "herança maldita" na Orientação a Objetos](https://volneigm.medium.com/a-heran%C3%A7a-maldita-na-orienta%C3%A7%C3%A3o-a-objetos-03ce236e7b45) - PR_BR
+- [Can You Stop a forEach Loop in JavaScript? The Debate That Went Viral](https://www.linkedin.com/pulse/can-you-stop-foreach-loop-javascript-debate-went-viral-volnei-munhoz-4tqsf/?trackingId=GRcasLGwQa%2Bo95%2FuApnkNg%3D%3D) - EN_US
+- [Empowering Your Development: The Advantages of Adopting TypeScript](https://www.linkedin.com/pulse/empowering-your-development-advantages-adopting-volnei-munhoz-jcyff/?trackingId=xUiY4GsfRwSsxL9s%2F1K9AA%3D%3D) - EN_US
+- [Clean Code Practices in Node.js Development](https://www.linkedin.com/pulse/clean-code-practices-nodejs-development-volnei-munhoz-7uftf/?trackingId=xUiY4GsfRwSsxL9s%2F1K9AA%3D%3D) - EN_US
+- [https://www.linkedin.com/pulse/embrace-resilience-fail-first-principle-nodejs-volnei-munhoz-hfmrf/?trackingId=xUiY4GsfRwSsxL9s%2F1K9AA%3D%3D](https://www.linkedin.com/pulse/embrace-resilience-fail-first-principle-nodejs-volnei-munhoz-hfmrf/?trackingId=xUiY4GsfRwSsxL9s%2F1K9AA%3D%3D) - EN_US
+
+---
+
 ### 📫 Let's Connect!
 Feel free to reach out to me for collaboration or any exciting opportunities.
 
